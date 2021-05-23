@@ -1,0 +1,16 @@
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.exe
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.deps.json
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.runtimeconfig.json
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.runtimeconfig.dev.json
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.dll
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\ref\Grammar.dll
+C:\Users\ldavd\code\apps\Grammar\bin\Debug\net5.0\Grammar.pdb
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.csprojAssemblyReference.cache
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.AssemblyInfoInputs.cache
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.AssemblyInfo.cs
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.csproj.CoreCompileInputs.cache
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.dll
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\ref\Grammar.dll
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.pdb
+C:\Users\ldavd\code\apps\Grammar\obj\Debug\net5.0\Grammar.genruntimeconfig.cache
